@@ -134,8 +134,11 @@ h3{
     font-size: 30px;
 }
 
+#carousel:hover{
+    background-color: #F97B22;
+}
 .feedback{
-    color: #F97B22;
+    color: black;
     font-size: 60px;
     font-weight: bold;
     line-height: 2;
